@@ -12,5 +12,5 @@ software que simule o problema apresentado e destacar as possíveis situações 
 recursos compartilhados.
 Sugestão de consulta:
 
-• https://blog.pantuza.com/artigos/o-jantar-dos-filosofos-probl ema-de-sincronizacao-emsistemas-
+• https://blog.pantuza.com/artigos/o-jantar-dos-filosofos-problema-de-sincronizacao-emsistemas-
 operacionais
